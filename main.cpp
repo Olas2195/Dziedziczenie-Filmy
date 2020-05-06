@@ -68,7 +68,6 @@ void filmDok::zapisJson() {
 }
 
 int main(int argc, char** argv) {
-	film f1;
 	filmDok fd1;
 	
 	fd1.wczytaj();	
