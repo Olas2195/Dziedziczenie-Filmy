@@ -1,0 +1,4 @@
+[
+{"tytul":Sugar Man,"rezyser":Malik Bendjelloul,"rok":2012,"opis":Historia muzyka Sixto Rodrigueza, ktoremu wrozono kariere wieksza niz Bobowi Dylanowi. Po drugiej plycie piosenkarz zapadl sie pod ziemie.},
+{"tytul":Sansara,"rezyser":Ron Fricke,"rok":2011,"opis":Drugi film rezysera "Baraki" to dokumentalna podroz przez najpiekniejsze zakatki 25 krajow na calym swiecie z muzyka Lisy Gerrard i Dead Can Dance. },
+]
